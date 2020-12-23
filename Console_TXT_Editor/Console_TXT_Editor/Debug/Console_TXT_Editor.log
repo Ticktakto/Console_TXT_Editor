@@ -1,0 +1,16 @@
+﻿  Console_TXT_Editor.cpp
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(36,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(105,13): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(152,13): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(180,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(195,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(250,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(280,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(387,11): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(411,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(483,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(507,36): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(536,36): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(552,36): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\MYCOM\source\repos\Console_TXT_Editor\Console_TXT_Editor\Console_TXT_Editor.cpp(570,35): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  Console_TXT_Editor.vcxproj -> C:\Users\MYCOM\source\repos\Console_TXT_Editor\Debug\Console_TXT_Editor.exe
